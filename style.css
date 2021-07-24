@@ -2,4 +2,23 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Red Hat Text', sans-serif;
+}
+section{
+    width: 1440px;
+    height: 800px;
+    margin: 0 auto;
+    background-color: hsl(234, 17%, 12%);
+}
+h1{
+    color: white;
+}
+.countdown-timer{
+    display: flex;
+    justify-content: center;
+}
+.countdown-timer h2{
+    color: white;
 }
