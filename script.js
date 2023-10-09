@@ -1,5 +1,5 @@
 const countdown = function(){
-    const endDate = new Date('January 1, 2023 00:00:00').getTime()
+    const endDate = new Date('January 1, 2024 00:00:00').getTime()
     const now = new Date().getTime()
     const timeGap = endDate - now
 
